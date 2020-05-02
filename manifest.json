@@ -8,5 +8,6 @@
             "css": ["style.css"],
             "js": ["content.js"]
         }
-    ]
+    ],
+    "author": "Carlos Santos"
 }
