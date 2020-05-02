@@ -1,0 +1,16 @@
+.twoTimesButton {
+    width: 25px;
+    background-color: transparent;
+    border: none;
+
+    color: gray;
+    font-size: 1rem;
+    font-weight: bold;
+
+    transition: all 0.25s;
+}
+
+.twoTimesButton:hover { 
+    background-color: #ddd;
+    border-radius: 10px;
+}
